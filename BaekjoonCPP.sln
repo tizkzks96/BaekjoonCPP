@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "입출력과 사칙연산",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2557_Hello World", "입출력과 사칙연산\2557_Hello World\2557_Hello World.vcxproj", "{E50B237D-F900-4509-8195-2A7D56BC82E6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "조건문", "조건문", "{09B8145E-51E1-4A1F-B015-9EB18270879B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10718_We love kriii", "입출력과 사칙연산\10718_We love kriii\10718_We love kriii.vcxproj", "{C701D2EF-4034-4AB6-95D6-54C3EE88AC48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -23,12 +27,21 @@ Global
 		{E50B237D-F900-4509-8195-2A7D56BC82E6}.Release|x64.Build.0 = Release|x64
 		{E50B237D-F900-4509-8195-2A7D56BC82E6}.Release|x86.ActiveCfg = Release|Win32
 		{E50B237D-F900-4509-8195-2A7D56BC82E6}.Release|x86.Build.0 = Release|Win32
+		{C701D2EF-4034-4AB6-95D6-54C3EE88AC48}.Debug|x64.ActiveCfg = Debug|x64
+		{C701D2EF-4034-4AB6-95D6-54C3EE88AC48}.Debug|x64.Build.0 = Debug|x64
+		{C701D2EF-4034-4AB6-95D6-54C3EE88AC48}.Debug|x86.ActiveCfg = Debug|Win32
+		{C701D2EF-4034-4AB6-95D6-54C3EE88AC48}.Debug|x86.Build.0 = Debug|Win32
+		{C701D2EF-4034-4AB6-95D6-54C3EE88AC48}.Release|x64.ActiveCfg = Release|x64
+		{C701D2EF-4034-4AB6-95D6-54C3EE88AC48}.Release|x64.Build.0 = Release|x64
+		{C701D2EF-4034-4AB6-95D6-54C3EE88AC48}.Release|x86.ActiveCfg = Release|Win32
+		{C701D2EF-4034-4AB6-95D6-54C3EE88AC48}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E50B237D-F900-4509-8195-2A7D56BC82E6} = {161F9EC0-C4E5-4C07-AB95-ABA8434E0AF6}
+		{C701D2EF-4034-4AB6-95D6-54C3EE88AC48} = {161F9EC0-C4E5-4C07-AB95-ABA8434E0AF6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {85817F23-FD1F-4114-8782-0D2CFCD00468}
