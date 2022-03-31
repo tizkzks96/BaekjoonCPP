@@ -5,6 +5,12 @@ VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2557_Hello World", "2557_Hello World\2557_Hello World.vcxproj", "{B8462E9A-BDCE-4FDE-9BAE-4CE53B66EBBC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "입출력과 사칙연산", "입출력과 사칙연산", "{161F9EC0-C4E5-4C07-AB95-ABA8434E0AF6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10718_We love kriii", "10718_We love kriii\10718_We love kriii.vcxproj", "{BEF3D6B8-2097-48A6-99ED-2550931629BC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test", "입출력과 사칙연산\Test\Test.vcxproj", "{FB202743-C7D4-4493-A817-A2FBC28CE1B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +27,22 @@ Global
 		{B8462E9A-BDCE-4FDE-9BAE-4CE53B66EBBC}.Release|x64.Build.0 = Release|x64
 		{B8462E9A-BDCE-4FDE-9BAE-4CE53B66EBBC}.Release|x86.ActiveCfg = Release|Win32
 		{B8462E9A-BDCE-4FDE-9BAE-4CE53B66EBBC}.Release|x86.Build.0 = Release|Win32
+		{BEF3D6B8-2097-48A6-99ED-2550931629BC}.Debug|x64.ActiveCfg = Debug|x64
+		{BEF3D6B8-2097-48A6-99ED-2550931629BC}.Debug|x64.Build.0 = Debug|x64
+		{BEF3D6B8-2097-48A6-99ED-2550931629BC}.Debug|x86.ActiveCfg = Debug|Win32
+		{BEF3D6B8-2097-48A6-99ED-2550931629BC}.Debug|x86.Build.0 = Debug|Win32
+		{BEF3D6B8-2097-48A6-99ED-2550931629BC}.Release|x64.ActiveCfg = Release|x64
+		{BEF3D6B8-2097-48A6-99ED-2550931629BC}.Release|x64.Build.0 = Release|x64
+		{BEF3D6B8-2097-48A6-99ED-2550931629BC}.Release|x86.ActiveCfg = Release|Win32
+		{BEF3D6B8-2097-48A6-99ED-2550931629BC}.Release|x86.Build.0 = Release|Win32
+		{FB202743-C7D4-4493-A817-A2FBC28CE1B4}.Debug|x64.ActiveCfg = Debug|x64
+		{FB202743-C7D4-4493-A817-A2FBC28CE1B4}.Debug|x64.Build.0 = Debug|x64
+		{FB202743-C7D4-4493-A817-A2FBC28CE1B4}.Debug|x86.ActiveCfg = Debug|Win32
+		{FB202743-C7D4-4493-A817-A2FBC28CE1B4}.Debug|x86.Build.0 = Debug|Win32
+		{FB202743-C7D4-4493-A817-A2FBC28CE1B4}.Release|x64.ActiveCfg = Release|x64
+		{FB202743-C7D4-4493-A817-A2FBC28CE1B4}.Release|x64.Build.0 = Release|x64
+		{FB202743-C7D4-4493-A817-A2FBC28CE1B4}.Release|x86.ActiveCfg = Release|Win32
+		{FB202743-C7D4-4493-A817-A2FBC28CE1B4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
