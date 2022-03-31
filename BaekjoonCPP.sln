@@ -3,11 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2557_Hello World", "입출력과 사칙연산\2557_Hello World\2557_Hello World.vcxproj", "{CABF845C-E497-441B-9812-444123922D5B}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "입출력과 사칙연산", "입출력과 사칙연산", "{F7436800-3191-4E95-9156-C19E480B117F}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10718_We love kriii", "입출력과 사칙연산\10718_We love kriii\10718_We love kriii.vcxproj", "{1A1053EC-CEE8-4F29-AD12-BAD79279FB48}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2557_Hello World", "2557_Hello World\2557_Hello World.vcxproj", "{B8462E9A-BDCE-4FDE-9BAE-4CE53B66EBBC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,31 +13,19 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CABF845C-E497-441B-9812-444123922D5B}.Debug|x64.ActiveCfg = Debug|x64
-		{CABF845C-E497-441B-9812-444123922D5B}.Debug|x64.Build.0 = Debug|x64
-		{CABF845C-E497-441B-9812-444123922D5B}.Debug|x86.ActiveCfg = Debug|Win32
-		{CABF845C-E497-441B-9812-444123922D5B}.Debug|x86.Build.0 = Debug|Win32
-		{CABF845C-E497-441B-9812-444123922D5B}.Release|x64.ActiveCfg = Release|x64
-		{CABF845C-E497-441B-9812-444123922D5B}.Release|x64.Build.0 = Release|x64
-		{CABF845C-E497-441B-9812-444123922D5B}.Release|x86.ActiveCfg = Release|Win32
-		{CABF845C-E497-441B-9812-444123922D5B}.Release|x86.Build.0 = Release|Win32
-		{1A1053EC-CEE8-4F29-AD12-BAD79279FB48}.Debug|x64.ActiveCfg = Debug|x64
-		{1A1053EC-CEE8-4F29-AD12-BAD79279FB48}.Debug|x64.Build.0 = Debug|x64
-		{1A1053EC-CEE8-4F29-AD12-BAD79279FB48}.Debug|x86.ActiveCfg = Debug|Win32
-		{1A1053EC-CEE8-4F29-AD12-BAD79279FB48}.Debug|x86.Build.0 = Debug|Win32
-		{1A1053EC-CEE8-4F29-AD12-BAD79279FB48}.Release|x64.ActiveCfg = Release|x64
-		{1A1053EC-CEE8-4F29-AD12-BAD79279FB48}.Release|x64.Build.0 = Release|x64
-		{1A1053EC-CEE8-4F29-AD12-BAD79279FB48}.Release|x86.ActiveCfg = Release|Win32
-		{1A1053EC-CEE8-4F29-AD12-BAD79279FB48}.Release|x86.Build.0 = Release|Win32
+		{B8462E9A-BDCE-4FDE-9BAE-4CE53B66EBBC}.Debug|x64.ActiveCfg = Debug|x64
+		{B8462E9A-BDCE-4FDE-9BAE-4CE53B66EBBC}.Debug|x64.Build.0 = Debug|x64
+		{B8462E9A-BDCE-4FDE-9BAE-4CE53B66EBBC}.Debug|x86.ActiveCfg = Debug|Win32
+		{B8462E9A-BDCE-4FDE-9BAE-4CE53B66EBBC}.Debug|x86.Build.0 = Debug|Win32
+		{B8462E9A-BDCE-4FDE-9BAE-4CE53B66EBBC}.Release|x64.ActiveCfg = Release|x64
+		{B8462E9A-BDCE-4FDE-9BAE-4CE53B66EBBC}.Release|x64.Build.0 = Release|x64
+		{B8462E9A-BDCE-4FDE-9BAE-4CE53B66EBBC}.Release|x86.ActiveCfg = Release|Win32
+		{B8462E9A-BDCE-4FDE-9BAE-4CE53B66EBBC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{CABF845C-E497-441B-9812-444123922D5B} = {F7436800-3191-4E95-9156-C19E480B117F}
-		{1A1053EC-CEE8-4F29-AD12-BAD79279FB48} = {F7436800-3191-4E95-9156-C19E480B117F}
-	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {25D1DF3B-438C-4C41-8B2A-DD923D0D86C5}
+		SolutionGuid = {85817F23-FD1F-4114-8782-0D2CFCD00468}
 	EndGlobalSection
 EndGlobal
